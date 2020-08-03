@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Aug  1 19:05:35 2020
-
-@author: angel
-"""
-
 import yfinance as yf
 
 print('-- Stock Data Getter --')
